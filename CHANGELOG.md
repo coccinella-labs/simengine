@@ -33,4 +33,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Warp web framework for API
 - Comprehensive test suite with 19 total tests
 
-[0.1.0]: https://github.com/bniladridas/simulation-engine/releases/tag/v0.1.0
+[0.1.0]: https://github.com/coccinella-labs/simulation-engine/releases/tag/v0.1.0

@@ -12,7 +12,7 @@ It supports concurrent simulations, precise physics calculations, and external c
 **Requires:** Rust 1.90.0+ ([Install](https://rustup.rs))
 
 ```bash
-git clone https://github.com/bniladridas/simulation-engine
+git clone https://github.com/coccinella-labs/simulation-engine
 cd simulation-engine
 cargo run
 ````

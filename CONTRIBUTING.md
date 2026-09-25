@@ -11,7 +11,7 @@ Thank you for your interest in contributing to the Simulation Engine! We welcome
 ### Getting Started
 ```bash
 # Clone the repository
-git clone https://github.com/bniladridas/simulation-engine.git
+git clone https://github.com/coccinella-labs/simulation-engine.git
 cd simulation-engine
 
 # Run tests and checks
@@ -27,7 +27,7 @@ cargo run --example basic_simulation
 ## Development Workflow
 
 ### 1. Choose an Issue
-- Check [GitHub Issues](https://github.com/bniladridas/simulation-engine/issues) for open tasks
+- Check [GitHub Issues](https://github.com/coccinella-labs/simulation-engine/issues) for open tasks
 - Comment on the issue to indicate you're working on it
 
 ### 2. Create a Branch
@@ -138,7 +138,7 @@ Types:
 
 ## Reporting Issues
 
-- Use [GitHub Issues](https://github.com/bniladridas/simulation-engine/issues) for bugs and feature requests
+- Use [GitHub Issues](https://github.com/coccinella-labs/simulation-engine/issues) for bugs and feature requests
 - Provide clear reproduction steps
 - Include relevant code samples and error messages
 - Specify your environment (OS, Rust version, etc.)
